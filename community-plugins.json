@@ -3,5 +3,5 @@
   "name": "Forgejo Integrator",
   "author": "RonDev",
   "description": "Displays Forgejo repository issues, PRs, and activity heatmaps directly in Obsidian.",
-  "repo": RonDevHub/Forgejo-integrator"
+  "repo": "RonDevHub/Forgejo-integrator"
 }
